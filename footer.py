@@ -1,0 +1,1 @@
+print("<footer>© 2026</footer>")
