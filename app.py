@@ -1,1 +1,1 @@
-print("Hello from main and footer branch!")
+print("Hello from Session 2")
